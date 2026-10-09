@@ -32,4 +32,4 @@ BERT 是基于 [[Transformer]] 编码器的预训练语言模型。它利用左�
 
 ## Common Use
 
-常用于文本分类、情感分析、[[Named Entity Recognition]]、阅读理解和抽取式问答等 NLP 任务。
+常用于文本分类、情感分析、[[NER]]、阅读理解和抽取式问答等 NLP 任务。

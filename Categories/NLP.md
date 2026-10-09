@@ -10,7 +10,7 @@ type: category
 
 - [[Machine Translation]]
 - [[Text Classification]]
-- [[Named Entity Recognition]]
+- [[NER]]
 - [[Text Summarization]]
 - [[Question Answering]]
 

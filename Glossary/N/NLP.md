@@ -28,7 +28,7 @@ NLP 关注如何把文本或语言输入转化为计算机可处理的信息，�
 - [[Tokenization]]
 - [[Machine Translation]]
 - [[Text Classification]]
-- [[Named Entity Recognition]]
+- [[NER]]
 
 ## Common Use
 
