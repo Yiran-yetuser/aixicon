@@ -20,6 +20,7 @@ the massive number of acronyms and technical terms in AI.
 - [[Robotics]]
 - [[Reinforcement Learning]]
 - [[Generative AI]]
+- [[Training]]
 
 ## Philosophy
 
