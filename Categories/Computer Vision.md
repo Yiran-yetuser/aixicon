@@ -9,3 +9,5 @@ type: category
 ## Models and Architectures
 
 - [[ViT]]
+- [[SAM]]
+- [[YOLO]]
